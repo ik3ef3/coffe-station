@@ -133,6 +133,21 @@ button {
     font-size: 18px;
 }
 
+a.update{
+    display: inline-block;
+    margin-top: 64px;
+    background-color: white;
+    border: 1px solid green;
+    border-radius: 12px;
+    font-weight: 500;
+    width: 204px;
+    height: 56px;
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+}
+
 .content {
     margin-top: 128px;
     margin: 80px 80px;
