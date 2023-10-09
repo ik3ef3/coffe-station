@@ -343,7 +343,11 @@ color: gray;
         background: none;
     }
 
-    
+    .carousel{
+        position: absolute;
+        width: 60%;
+        background: gray;
+    }
 }
 
 @media (max-width: 768px) {
